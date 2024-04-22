@@ -7,3 +7,5 @@ O projeto consiste em uma rede social onde é possível fazer uma postagem, excl
 1. React
 2. Typescript
 3. Styled Components
+
+![alt text](image.png)
